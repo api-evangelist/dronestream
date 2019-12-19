@@ -1,0 +1,39 @@
+{
+    "name": "Dronestream",
+    "description": "<p>Real-time and historical data about every reported covert United States drone strike. A publicly-accessible API. With a simple browser request, designers and developers can build data visualizations about covert war. Stay up to date on the latest drone attacks being carried out in Pakistan, Yemen, and Somalia. Researchers and legal scholars can look for a specific drone strike or begin to analyze historical trends.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Dronestream.png",
+    "tags": [
+        "api provider",
+        "data",
+        "drones",
+        "have api",
+        "military"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dronestream\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dronestream",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Dronestream.png",
+            "humanURL": "http:\/\/dronestre.am\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dronestream-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/dronestre.am\/"
+        }
+    ]
+}
